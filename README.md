@@ -4,7 +4,8 @@
 
 * 前端框架：
   * Vue.js
-* 後端語言：node.js
+* 後端語言：
+  * node.js
 *後端框架：
   * Express
 * 雲端服務：
