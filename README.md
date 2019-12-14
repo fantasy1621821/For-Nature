@@ -6,7 +6,7 @@
   * Vue.js
 * 後端語言：
   * node.js
-*後端框架：
+* 後端框架：
   * Express
 * 雲端服務：
   * AWS
