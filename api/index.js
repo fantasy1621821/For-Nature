@@ -2,9 +2,9 @@ const express = require('express');
 const app = express();
 const AWS = require('aws-sdk');
 const profile = {
-  accessKeyId: "AKIAWFH2YKG7AJMN5NPX",
-  secretAccessKey: "mxZo673Fto9y6VYKZ+UHmnDTih/wEKcfPHNuSRB8",
-  region: "ap-northeast-1",
+  accessKeyId: "YOURAccessKeyId",
+  secretAccessKey: "YOURsecretAccessKey",
+  region: "YOURRegion",
 };
 AWS.config.update(profile);
 const docClient = new AWS.DynamoDB.DocumentClient();
